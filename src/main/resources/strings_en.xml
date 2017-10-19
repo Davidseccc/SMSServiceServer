@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+    <sms-message>
+        <received>Message arived from: %s at %s \n %s</received>
+        <send>Message was send to %s </send>
+    </sms-message>
+</strings>
+

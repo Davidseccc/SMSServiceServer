@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <modem>
+        <comport>/dev/ttyUSB0</comport>
+    </modem>
+    <language>
+        <localeFile>strings_en.xml</localeFile>>
+    </language>
+    <nummers>
+        <number>420607223970</number>
+        <number>420 123 456 789</number>
+        <number>+420 123 456 789</number>
+        <number>420 654089123</number>
+        <number>+420 654089124</number>
+        <number>+420654089124</number>
+        <number>+420-654-891-134</number>
+    </nummers>
+</configuration>
+
